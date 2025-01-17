@@ -1,0 +1,8 @@
+{
+    "channel_id": "1212398536256393227",
+    "accounts_separator": ";",
+    "delay_between_messages": "90 - 360",
+    "constant_message_part": "!faucet",
+    "shuffle_accounts": true,
+    "restart_after_hours": "6h"
+}
